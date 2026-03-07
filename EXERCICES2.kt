@@ -22,3 +22,4 @@ fun main() {
     states.forEach { handleState(it) }
 
 }
+
