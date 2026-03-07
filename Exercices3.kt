@@ -1,10 +1,7 @@
-// Exercice 3 : Formes Dessinables (Interfaces)
-// 1. Définition de l'interface
 interface Drawable {
     fun draw()
 }
 
-// 2. Implémentations avec propriétés spécifiques
 class Circle(val radius: Int) : Drawable {
     override fun draw() {
         println("   *** ")
@@ -28,4 +25,5 @@ fun main() {
     val shapes: List<Drawable> = listOf(Circle(5), Square(10))
 
     shapes.forEach { it.draw() }
+
 }
