@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="accent">#F57C00</color>
+    <color name="background">#F5F5F5</color>
+    <color name="black">#000000</color>
+    <color name="error">#B00020</color>
+    <color name="primary">#2E7D32</color>
+    <color name="primary_dark">#1B5E20</color>
+    <color name="white">#FFFFFF</color>
+    <string name="app_name">AgriGuard</string>
+    <string name="btn_diagnose">Diagnostiquer une plante</string>
+    <string name="btn_report">Signaler ce cas</string>
+    <string name="btn_share">Partager</string>
+    <string name="capture_hint">Positionnez la feuille dans le cadre</string>
+    <string name="confidence_level">Niveau de confiance</string>
+    <string name="disease_armyworm">Chenilles légionnaires</string>
+    <string name="disease_black_pod">Pourriture brune (Black pod)</string>
+    <string name="disease_cassava_mosaic">Mosaïque du manioc</string>
+    <string name="disease_healthy">Plante saine</string>
+    <string name="disease_maize_mildew">Mildiou du maïs</string>
+    <string name="disease_maize_rust">Rouille du maïs</string>
+    <string name="disease_moniliose">Moniliose du cacao</string>
+    <string name="disease_sigatoka">Cercosporiose de la banane</string>
+    <string name="gallery">Galerie</string>
+    <string name="gps_active">Actif</string>
+    <string name="gps_inactive">Inactif</string>
+    <string name="gps_status">Statut GPS : </string>
+    <string name="high_risk_alert">⚠️ Risque élevé détecté à %1$s km</string>
+    <string name="prevention_tips">Mesures préventives</string>
+    <string name="recent_alerts">Alertes récentes à proximité</string>
+    <string name="result_title">Résultat du diagnostic</string>
+    <string name="slogan">Diagnostic intelligent pour une agriculture saine</string>
+    <string name="treatment_advice">Traitement recommandé</string>
+    <style name="Theme.AgriGuard" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        <item name="colorPrimary">@color/primary</item>
+        <item name="colorPrimaryVariant">@color/primary_dark</item>
+        <item name="colorOnPrimary">@color/white</item>
+        
+        <item name="colorSecondary">@color/accent</item>
+        <item name="colorSecondaryVariant">@color/accent</item>
+        <item name="colorOnSecondary">@color/black</item>
+        
+        <item name="android:statusBarColor">@color/primary_dark</item>
+        
+    </style>
+</resources>
