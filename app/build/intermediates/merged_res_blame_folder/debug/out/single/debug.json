@@ -1,0 +1,54 @@
+[
+    {
+        "merged": "C:\\Users\\BCT\\.gradle\\daemon\\8.5\\com.agrriguard.app-merged_res-54:\\layout_item_alert.xml.flat",
+        "source": "C:\\Users\\BCT\\.gradle\\daemon\\8.5\\com.agrriguard.app-main-56:\\layout\\item_alert.xml"
+    },
+    {
+        "merged": "C:\\Users\\BCT\\.gradle\\daemon\\8.5\\com.agrriguard.app-merged_res-54:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\BCT\\.gradle\\daemon\\8.5\\com.agrriguard.app-main-56:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\BCT\\.gradle\\daemon\\8.5\\com.agrriguard.app-merged_res-54:\\layout_activity_camera.xml.flat",
+        "source": "C:\\Users\\BCT\\.gradle\\daemon\\8.5\\com.agrriguard.app-main-56:\\layout\\activity_camera.xml"
+    },
+    {
+        "merged": "C:\\Users\\BCT\\.gradle\\daemon\\8.5\\com.agrriguard.app-merged_res-54:\\layout_activity_map.xml.flat",
+        "source": "C:\\Users\\BCT\\.gradle\\daemon\\8.5\\com.agrriguard.app-main-56:\\layout\\activity_map.xml"
+    },
+    {
+        "merged": "C:\\Users\\BCT\\.gradle\\daemon\\8.5\\com.agrriguard.app-merged_res-54:\\layout_activity_home.xml.flat",
+        "source": "C:\\Users\\BCT\\.gradle\\daemon\\8.5\\com.agrriguard.app-main-56:\\layout\\activity_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\BCT\\.gradle\\daemon\\8.5\\com.agrriguard.app-merged_res-54:\\drawable_camera_guide_frame.xml.flat",
+        "source": "C:\\Users\\BCT\\.gradle\\daemon\\8.5\\com.agrriguard.app-main-56:\\drawable\\camera_guide_frame.xml"
+    },
+    {
+        "merged": "C:\\Users\\BCT\\.gradle\\daemon\\8.5\\com.agrriguard.app-merged_res-54:\\layout_activity_result.xml.flat",
+        "source": "C:\\Users\\BCT\\.gradle\\daemon\\8.5\\com.agrriguard.app-main-56:\\layout\\activity_result.xml"
+    },
+    {
+        "merged": "com.agrriguard.app-merged_res-54:/layout_activity_register.xml.flat",
+        "source": "com.agrriguard.app-main-56:/layout/activity_register.xml"
+    },
+    {
+        "merged": "C:\\Users\\BCT\\.gradle\\daemon\\8.5\\com.agrriguard.app-merged_res-54:\\drawable_ic_logo_leaf.xml.flat",
+        "source": "C:\\Users\\BCT\\.gradle\\daemon\\8.5\\com.agrriguard.app-main-56:\\drawable\\ic_logo_leaf.xml"
+    },
+    {
+        "merged": "com.agrriguard.app-merged_res-54:/layout_activity_result.xml.flat",
+        "source": "com.agrriguard.app-main-56:/layout/activity_result.xml"
+    },
+    {
+        "merged": "C:\\Users\\BCT\\.gradle\\daemon\\8.5\\com.agrriguard.app-merged_res-54:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\BCT\\.gradle\\daemon\\8.5\\com.agrriguard.app-main-56:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.agrriguard.app-merged_res-54:/layout_activity_home.xml.flat",
+        "source": "com.agrriguard.app-main-56:/layout/activity_home.xml"
+    },
+    {
+        "merged": "com.agrriguard.app-merged_res-54:/layout_activity_login.xml.flat",
+        "source": "com.agrriguard.app-main-56:/layout/activity_login.xml"
+    }
+]
