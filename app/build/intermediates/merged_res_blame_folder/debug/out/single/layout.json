@@ -4,12 +4,8 @@
         "source": "com.agrriguard.app-main-56:/layout/activity_result.xml"
     },
     {
-        "merged": "C:\\Users\\BCT\\.gradle\\daemon\\8.5\\com.agrriguard.app-mergeDebugResources-53:\\layout\\activity_home.xml",
-        "source": "C:\\Users\\BCT\\.gradle\\daemon\\8.5\\com.agrriguard.app-main-56:\\layout\\activity_home.xml"
-    },
-    {
-        "merged": "C:\\Users\\BCT\\.gradle\\daemon\\8.5\\com.agrriguard.app-mergeDebugResources-53:\\layout\\activity_camera.xml",
-        "source": "C:\\Users\\BCT\\.gradle\\daemon\\8.5\\com.agrriguard.app-main-56:\\layout\\activity_camera.xml"
+        "merged": "com.agrriguard.app-mergeDebugResources-53:/layout/activity_map.xml",
+        "source": "com.agrriguard.app-main-56:/layout/activity_map.xml"
     },
     {
         "merged": "com.agrriguard.app-mergeDebugResources-53:/layout/activity_login.xml",
@@ -20,19 +16,15 @@
         "source": "com.agrriguard.app-main-56:/layout/activity_home.xml"
     },
     {
+        "merged": "com.agrriguard.app-mergeDebugResources-53:/layout/activity_camera.xml",
+        "source": "com.agrriguard.app-main-56:/layout/activity_camera.xml"
+    },
+    {
         "merged": "com.agrriguard.app-mergeDebugResources-53:/layout/activity_register.xml",
         "source": "com.agrriguard.app-main-56:/layout/activity_register.xml"
     },
     {
-        "merged": "C:\\Users\\BCT\\.gradle\\daemon\\8.5\\com.agrriguard.app-mergeDebugResources-53:\\layout\\activity_map.xml",
-        "source": "C:\\Users\\BCT\\.gradle\\daemon\\8.5\\com.agrriguard.app-main-56:\\layout\\activity_map.xml"
-    },
-    {
-        "merged": "C:\\Users\\BCT\\.gradle\\daemon\\8.5\\com.agrriguard.app-mergeDebugResources-53:\\layout\\activity_result.xml",
-        "source": "C:\\Users\\BCT\\.gradle\\daemon\\8.5\\com.agrriguard.app-main-56:\\layout\\activity_result.xml"
-    },
-    {
-        "merged": "C:\\Users\\BCT\\.gradle\\daemon\\8.5\\com.agrriguard.app-mergeDebugResources-53:\\layout\\item_alert.xml",
-        "source": "C:\\Users\\BCT\\.gradle\\daemon\\8.5\\com.agrriguard.app-main-56:\\layout\\item_alert.xml"
+        "merged": "com.agrriguard.app-mergeDebugResources-53:/layout/item_alert.xml",
+        "source": "com.agrriguard.app-main-56:/layout/item_alert.xml"
     }
 ]
