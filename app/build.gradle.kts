@@ -10,7 +10,7 @@ android {
 
     defaultConfig {
         applicationId = "com.agrriguard"
-        minSdk = 26
+        minSdk = 21 
         targetSdk = 33
         versionCode = 1
         versionName = "1.0"
@@ -84,9 +84,7 @@ dependencies {
     // WorkManager
     implementation("androidx.work:work-runtime-ktx:2.8.1")
 
-    // Apache POI (Export)
-    implementation("org.apache.poi:poi:5.2.3")
-    implementation("org.apache.poi:poi-ooxml:5.2.3")
+    // Suppression de Apache POI qui causait l'erreur de compilation sur API 21
 
     testImplementation("junit:junit:4.13.2")
     androidTestImplementation("androidx.test.ext:junit:1.1.5")
